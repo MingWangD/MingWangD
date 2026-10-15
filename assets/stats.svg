@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="228" viewBox="0 0 480 228" role="img">
+<title>GitHub 统计</title><desc>提交 / PR / Issue / 审查：过去一年公开贡献</desc>
+<rect x="0.5" y="0.5" width="479" height="227" rx="12" fill="#0d1117" stroke="#30363d"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans CJK SC,Microsoft YaHei,sans-serif">
+<text x="24" y="35" fill="#e6edf3" font-size="20" font-weight="600">GitHub 统计</text>
+<text x="24" y="58" fill="#8b949e" font-size="12" font-weight="400">提交 / PR / Issue / 审查：过去一年公开贡献</text>
+<text x="24" y="92" fill="#c9d1d9" font-size="14" font-weight="400">代码提交</text>
+<text x="184" y="92" fill="#a5d6ff" font-size="18" font-weight="600">50</text>
+<text x="262" y="92" fill="#c9d1d9" font-size="14" font-weight="400">Pull Request</text>
+<text x="422" y="92" fill="#a5d6ff" font-size="18" font-weight="600">0</text>
+<text x="24" y="134" fill="#c9d1d9" font-size="14" font-weight="400">Issue</text>
+<text x="184" y="134" fill="#a5d6ff" font-size="18" font-weight="600">0</text>
+<text x="262" y="134" fill="#c9d1d9" font-size="14" font-weight="400">代码审查</text>
+<text x="422" y="134" fill="#a5d6ff" font-size="18" font-weight="600">0</text>
+<text x="24" y="176" fill="#c9d1d9" font-size="14" font-weight="400">仓库获星</text>
+<text x="184" y="176" fill="#a5d6ff" font-size="18" font-weight="600">25</text>
+<text x="262" y="176" fill="#c9d1d9" font-size="14" font-weight="400">公开原创仓库</text>
+<text x="422" y="176" fill="#a5d6ff" font-size="18" font-weight="600">8</text>
+<text x="24" y="210" fill="#8b949e" font-size="11" font-weight="400">更新于 2026-10-15 UTC</text>
+</g></svg>
